@@ -1,3 +1,11 @@
+# Important Requirement :
+- npm (version 14.17.1)
+- react.js (17.0.2)
+- mobx (6.4.2)
+- mobx-react (7.3.0)
+- mobx-state-tree (5.1.3)
+- bootstrap (5.1.3)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
